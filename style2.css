@@ -1,0 +1,25 @@
+body{
+    background: #000000;
+}
+
+.clock{
+    position: relative;
+    top: 50%;
+    left: 90%;
+    transform: translateX(-50%) translateY(0%);
+    color: #ffffff;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 7px;  
+}
+
+p{
+    margin: 100px;
+    position: relative;
+    top: 25%;
+    left: 35%;
+    font-size: 120%;
+    color: rgb(14, 82, 155);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
